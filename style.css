@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: hsl(228, 45%, 44%);
+    }
+b{    
+    font-size: 29px;
+}
+div {
+    padding: 15% 4% 0% 55%;
+    position:absolute;
+    color:white;
+    font-size: 17px;
+   
+    }
+  
+  img {
+
+    padding: 12% 41% 0% 8%;
+    position: absolute;
+  }
+
+  button {
+    border-radius: 20px 20px 20px 20px;
+    position: absolute; /* or absolute, fixed, etc. */
+    padding: 12px 48px;
+    box-shadow: 15px 20px 30px rgba(8, 8, 8, 0.3);
+    color: black;
+    margin:30% 25% 0% 55%;
+    
+    
+    
+}
+button:hover{
+  background-color: gray;
+}
+#logo_img{
+  position: absolute;
+  padding: 2% 70% 7% 10%;
+}
